@@ -1,0 +1,38 @@
+*{
+    margin: 2%;
+}
+
+#h1 {
+    background-color: orangered;
+    text-align: center;
+}
+
+#h2{
+    background-color:chocolate;
+    text-align: center;
+}
+
+#h{
+    background-color: orangered;
+    text-align: center;
+}
+
+#hh{
+    background-color: orangered;
+    text-align: center;
+}
+
+#p{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pa{
+    color: ,maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pp{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
